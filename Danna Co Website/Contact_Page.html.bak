@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Daniel Peatt" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Contact Page</title>
+ </head>
+ <style>
+ a { color:black } /* Globally */
+
+/* Each state */
+
+a:link { text-decoration: none; }
+a:hover, a:active { text-decoration: none; color:#787878 }
+
+ #Logo {
+	padding-left: 360px;
+	padding-top: 100px;
+  }
+#top {
+	vertical-align: baseline;
+}
+.right {
+	float: right;
+	padding-top: 140px;
+	padding-right: 360px;
+	word-spacing: 0px;
+  }
+ </style>
+ <body>
+   <img id="Logo" src="Photos/Danna Design Logo.png" alt="Danna Design Logo" height="60" width="296">
+  <div class="right">
+  <font face="verdana" color="grey"><a href="Main_Page.html">Back to Work</a></font>
+  </div><br><br><br><br>
+  <table style="padding-left: 360px;">
+  <tr>
+	<td><img src="Photos/Contact Page/Contact Photo.png" alt=""></td>
+	<td id="top"><font face="verdana" color="grey" size="6">CONTACT</font><br><br>
+				 <font face="verdana" color="grey" size="2">For inquires and pricing contact Megan at:<br><br>
+				 <ul>
+				 <li>DannaDesignCo@gmail.com</li><br>
+				 <li>(386) 837-4054</li>
+				 </ul>
+	</td>
+  </tr>
+  </table>
+  
+  
+ </body>
+</html>
